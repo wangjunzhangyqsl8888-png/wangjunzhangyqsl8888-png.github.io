@@ -31,7 +31,7 @@ See our Github site for relevant group codes:
 
 <div class="hf-embed">
   <iframe
-    title="MatterGPT Demo (Hugging Face Space)"
+    title="MatterGPT Demo 1 (Hugging Face Space)"
     src="https://wangjunzhang-loveuu.hf.space"
     loading="lazy"
     allow="clipboard-write; microphone; camera; fullscreen"></iframe>
